@@ -2,5 +2,5 @@
 
 ## Delaney Bishop
 
-Email: [delaneybishop@u.boisestate.edu](delaneybishop@u.boisestate.edu)
+Email: [delaneybishop@u.boisestate.edu](mailto:delaneybishop@u.boisestate.edu)
 
