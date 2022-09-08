@@ -2,5 +2,16 @@
 
 ## Delaney Bishop
 
-Email: [delaneybishop@u.boisestate.edu](mailto:delaneybishop@u.boisestate.edu)
+1. ?
+2. ?
+3. ?
 
+## SMART Goals
+
+--------- | --------
+S | Specific 
+M | Measureable 
+A | Achievebale 
+R | Relevant 
+T | Timebound 
+--------- | ---------
